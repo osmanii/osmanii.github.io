@@ -27,6 +27,17 @@ Work experience
   * Regenstrief Center for Healthcare Engineering
   * Duties included: Research
   
+* July 2009 to August 2011: Lecturer
+  * Military Institute of Science and Technology
+  * Department of Computer Science and Engineering
+  * Duties included: Teaching and Research
+
+* August 2011 to May 2017: Graduate Assistant
+  * Marquette University
+  * Department of Mathematics, Statistics, and Computer Science
+  * Duties included: Graduate Instructor, Research Assistant, Teaching Assistant
+
+  
 Research Interests
 ======
 * Machine Learning
