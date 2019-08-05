@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, Military Institute of Science and Technology, Dhaka, Bangladesh 2009
+* M.S. in Computational Sciences, Marquette University, Milwaukee, Wisconsin, USA 2013
+* Ph.D in Computational Sciences, Marquette University, Milwaukee, Wisconsin, USA 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2017 to Present: Visiting Assistant Professor
+  * Miami University
+  * Department of Computer Science and Software Engineering
+  * Duties included: Teaching and Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 to present: Faculty Affiliate
+  * Purdue University
+  * Regenstrief Center for Healthcare Engineering
+  * Duties included: Research
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Artificial Intelligence
+* Causal Inference
+* Ubiquitous Computing
+* Healthcare
+* Human Activity Recognition
+* Localization
 
 Publications
 ======

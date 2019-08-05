@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Md Osman Gani"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Md Osman Gani"
+description              : &description "Assistant Professor at Miami University"
+url                      : https://osmanii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "osmanii/osmanii.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Md Osman Gani"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I am working as a Visiting Assistant Professor in the Department of Computer Science and Software Engineering at Miami University, USA. I am also a member of the SMART (Social-Mobile-and-Internet-of-Things) research group. I completed a Ph.D. in Computational Sciences from Marquette University. I received my B.Sc. degree in Computer Science and Engineering from Military Institute of Science and Technology (MIST), Bangladesh and M.Sc. degree in Computational Sciences from Marquette University, USA.
+  My research centers in an interest in contributing to a deeper understanding of the context in big data ubiquitous computing environment. My research interests include artificial intelligence, data science, machine learning, ubiquitous computing, indoor localization, and human activity recognition. The foundation of my research has applied the knowledge from computer science, applied mathematics, and statistics. I have experience in developing mathematical models, performing data analysis, applying statistical and machine learning techniques, and building mobile computing systems. My researches have been applied in multiple areas including healthcare, rehabilitation research, occupational science, psychology, microbiology, and pervasive computing."
+  location         : "Oxford, Ohio, USA"
+  employer         : "Miami University, Ohio"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_FmDHygAAAAJ&hl=en"
+  email            : "ganim@miamioh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "osmanii"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/md-osman-gani/"
+  orcid            : "http://orcid.org/0000-0001-9962-358X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/777209/osmani"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mdosmani"
   vine             :
   weibo            :
   xing             :
