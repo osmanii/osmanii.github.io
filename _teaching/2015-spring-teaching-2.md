@@ -7,14 +7,27 @@ venue: "Military Institute of Science and Technology, Department of Computer Sci
 date: 2009-07-20 to 08-23-2011
 location: "Dhaka, Bangladesh"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Structured Programming Language
-======
-
-Computer Interfacing
-======
-
+Taught many courses over the course of more than 2 years
+<ul> 
+<li>Theory courses:
+<ul> 
+<li>
 Machine Learning
-======
+<li>
+Computer Interfacing
+<li>
+Structured Programming Language
+</ul>
+<li>Lab/Sessional courses:
+<ul> 
+<li>
+Object-Oriented Programming
+<li>
+Database Management System
+<li>
+Assembly Language
+<li>
+Digital Logic Design
+<li>
+Microprocessor
+</ul>
