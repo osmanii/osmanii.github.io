@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Md Osman Gani"
+title                    : "Md Osman Gani"
 title_separator          : "-"
 name                     : &name "Md Osman Gani"
 description              : &description "Assistant Professor at Miami University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Md Osman Gani"
+  name             : "Md Osman Gani"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor, Computer Science and Software Engineering, Miami University"
   location         : 
