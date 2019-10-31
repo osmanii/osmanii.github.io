@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Military Institute of Science and Technology"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate teaching"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Military Institute of Science and Technology, Department of Computer Science and Engineering"
+date: 2009-07-20 to 08-23-2011
+location: "Dhaka, Bangladesh"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Structured Programming Language
 ======
 
-Heading 2
+Computer Interfacing
 ======
 
-Heading 3
+Machine Learning
 ======
