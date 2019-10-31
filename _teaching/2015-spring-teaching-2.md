@@ -7,7 +7,7 @@ venue: "Military Institute of Science and Technology, Department of Computer Sci
 date: 2009-07-20 to 08-23-2011
 location: "Dhaka, Bangladesh"
 ---
-Taught many courses over the course of more than 2 years
+Taught multiple courses and labs over the course of more than 2 years
 <ul> 
 <li>Theory courses:
 <ul> 
