@@ -4,17 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Md Osman Gani, Vaskar Raychoudhury, Janick Edinger, Valeria Mokrenko, Zheng Cao, Ce Zhang “Smart Surface Classification for Accessible Routing through Built Environment - A Crowd-sourced Approach”, ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2019), NY, USA, November 2019. (CORE rank: A)
 
 Md Osman Gani, Taskina Fayezeen, Richard J. Povinelli, Roger O. Smith, Muhammad Arif, Ahmed J. Kattan, Sheikh Iqbal Ahamed, "A light weight smartphone based human activity recognition system with high accuracy", Journal of Network and Computer Applications, Elsevier, Volume 141, 2019, Pages 59-72, ISSN 1084-8045, https://doi.org/10.1016/j.jnca.2019.05.001 (CORE rank: A)
@@ -63,3 +52,13 @@ Md Osman Gani, Hasan Sarwar, Chowdhury Mofizur Rahman “Prediction of state of 
 
 Md Osman Gani, Iftekhar Jahan Mehedi, Mehnaz Seraj, Hasan Sarwar, and Chowdhury Mofizur Rahman, title “Prediction of the density of the Active Wireless device using Markov Model”, IEEE International Conference on Computer and Information Technology (ICCIT), Dec 2008, Bangladesh.
 
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
