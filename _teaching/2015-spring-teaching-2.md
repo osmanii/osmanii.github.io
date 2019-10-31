@@ -8,6 +8,7 @@ date: 2009-07-20 to 08-23-2011
 location: "Dhaka, Bangladesh"
 ---
 Taught multiple courses and labs over the course of more than 2 years
+
 <ul> 
 <li>Theory courses:
 <ul> 
@@ -30,4 +31,5 @@ Assembly Language
 Digital Logic Design
 <li>
 Microprocessor
+</ul>
 </ul>
