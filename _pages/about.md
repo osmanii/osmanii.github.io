@@ -15,5 +15,13 @@ My research centers in an interest in contributing to a deeper understanding of 
 Please feel free to contact me if you have any questions.
 
 -----------------------------------------
+Recent news
+- November, 2019. Presented paper at BuildSys 2019
+- September, 2019. One paper submitted to PerCom 2020
+- August, 2019. One paper accepted to BuildSys 2019.
+- July, 2019. Co-chairing the first Artificat Evaluation at PerCom 2020.
+- May, 2019. One journal paper accepted to JNCA, Elsevier.
+- 
+-----------------------------------------
 
 What a long strage trip it's been...
