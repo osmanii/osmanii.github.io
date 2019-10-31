@@ -12,24 +12,24 @@ Taught multiple courses and labs over the course of more than 2 years
 <ul> 
 <li>Theory courses:
 <ul> 
-<li>
-Machine Learning
-<li>
-Computer Interfacing
-<li>
-Structured Programming Language
+	<li>
+	Machine Learning
+	<li>
+	Computer Interfacing
+	<li>
+	Structured Programming Language
 </ul>
 <li>Lab/Sessional courses:
-<ul> 
-<li>
-Object-Oriented Programming
-<li>
-Database Management System
-<li>
-Assembly Language
-<li>
-Digital Logic Design
-<li>
-Microprocessor
+<ul>
+	<li>
+	Object-Oriented Programming
+	<li>
+	Database Management System
+	<li>
+	Assembly Language
+	<li>
+	Digital Logic Design
+	<li>
+	Microprocessor
 </ul>
 </ul>
