@@ -1,13 +1,13 @@
 ---
 title: "Miami University"
 collection: teaching
-type: "Undergraduate courses"
+type: "Undergraduate teaching"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Miami University, Department of Computer Science and Software Engineering"
 date: 2017-08-21 to Present
 location: "Oxford, OH, USA"
 ---
-I taught three courses over the course of three years.
+I taught three courses over a period of three years.
 
 <ul>
 <li>

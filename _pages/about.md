@@ -20,6 +20,7 @@ Recent news
 - September, 2019. One paper submitted to PerCom 2020
 - August, 2019. One paper accepted to BuildSys 2019.
 - July, 2019. Co-chairing the first Artificat Evaluation at PerCom 2020.
+- July, 2019. Co-chairing the first workshop on integrated smart healthcare (WISH) at COMPSAC 2019.
 - May, 2019. One journal paper accepted to JNCA, Elsevier.
 - 
 -----------------------------------------
