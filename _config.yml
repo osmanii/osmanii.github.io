@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Md Osman Gani"
 title_separator          : "-"
 name                     : &name "Md Osman Gani"
-description              : &description "Assistant Professor at Miami University"
+description              : &description "Assistant Professor at University of Maryland, Baltimore County"
 url                      : https://osmanii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "osmanii/osmanii.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Md Osman Gani"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Computer Science and Software Engineering, Miami University"
+  bio              : "Assistant Professor, Information Systems, University of Maryland, Baltimore County"
   location         : 
-  employer         : "Miami University, Ohio, USA"
+  employer         : "University of Maryland, Baltimore County, USA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_FmDHygAAAAJ&hl=en"
-  email            : "ganim@miamioh.edu"
+  email            : "mogani@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
