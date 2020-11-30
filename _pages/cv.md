@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [Download CV here](http://academicpages.github.io/files/CV.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download CV here](http://academicpages.github.io/files/CV_Gani.pdf)
 Education
 ======
 * B.S. in Computer Science and Engineering, Military Institute of Science and Technology, Dhaka, Bangladesh 2009
