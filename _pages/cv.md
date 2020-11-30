@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+======
 [Download CV here](http://osmanii.github.io/files/CV_Gani.pdf)
 ======
+
 Education
 ======
 * B.S. in Computer Science and Engineering, Military Institute of Science and Technology, Dhaka, Bangladesh 2009
