@@ -15,6 +15,9 @@ My research centers in an interest in contributing to a deeper understanding of 
 Please feel free to contact me if you have any questions.
 
 -----------------------------------------
+I am currently looking for motivated Ph.D. students to join our lab, Causal Artificial Intelligence Lab (CAIL). If you are interested please reach out to me at mogani [at] umbc [dot] edu.
+
+-----------------------------------------
 Recent news
 - October, 2020. Our paper on Causal Estimation Framework available on ArXiv.
 - October, 2020. Our paper on Oxygen Therapy presented at CHEST.
@@ -26,6 +29,7 @@ Recent news
 - July, 2019. Co-chairing the first Artificat Evaluation at PerCom 2020.
 - July, 2019. Co-chairing the first workshop on integrated smart healthcare (WISH) at COMPSAC 2019.
 - May, 2019. One journal paper accepted to JNCA, Elsevier.
+
 -----------------------------------------
 
 What a long strage trip it's been...
