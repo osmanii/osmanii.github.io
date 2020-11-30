@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 [Download CV here](http://osmanii.github.io/files/CV_Gani.pdf)
 ======
 
@@ -72,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-chair, 
