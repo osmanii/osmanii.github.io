@@ -1,12 +1,23 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
+
 I am an Assistant Professor of Information Systems at the University of Maryland, Baltimore County. I am also a faculty affiliate for research in the Regenstreif Center for Healthcare Engineering at Purdue University.
 Prior to joining UMBC, I was a Visiting Assistant Professor in the Department of Computer Science and Software Engineering at Miami University. I completed a Ph.D. in Computational Sciences from Marquette University. I received my B.Sc. degree in Computer Science and Engineering from Military Institute of Science and Technology (MIST), Bangladesh and M.Sc. degree in Computational Sciences from Marquette University, USA. 
 
@@ -17,19 +28,10 @@ Please feel free to contact me if you have any questions.
 -----------------------------------------
 I am currently looking for motivated Ph.D. students to join our lab, Causal Artificial Intelligence Lab (CAIL). If you are interested please reach out to me at mogani [at] umbc [dot] edu.
 
------------------------------------------
-Recent news
-- October, 2020. Our paper on Causal Estimation Framework available on ArXiv.
-- October, 2020. Our paper on Oxygen Therapy presented at CHEST.
-- August, 2020. Excited to join IS@UMBC!
-- February, 2020. Talk at UMBC, Miami University, Western Washington University.
-- December, 2020. Talk at University of Indianapollis.
-- November, 2019. Presented paper at BuildSys 2019.
-- August, 2019. One paper accepted to BuildSys 2019.
-- July, 2019. Co-chairing the first Artificat Evaluation at PerCom 2020.
-- July, 2019. Co-chairing the first workshop on integrated smart healthcare (WISH) at COMPSAC 2019.
-- May, 2019. One journal paper accepted to JNCA, Elsevier.
+---
 
------------------------------------------
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-What a long strage trip it's been...
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
