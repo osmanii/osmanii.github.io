@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://osmanii.github.io/sitemap.xml
