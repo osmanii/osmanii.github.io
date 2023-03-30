@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://informationsystems.umbc.edu/'>University of Maryland, Baltimore County</a>. 1000 Hilltop Circle, Baltimore, MD. An Honors University in Maryland
 
 profile:
   align: right
