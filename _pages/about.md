@@ -30,7 +30,7 @@ I am currently looking for motivated Ph.D. students to join our lab, Causal Arti
 
 ---
 
-What a long strange trip its been .....
+What a long strange trip its been ...
 
 ---
 
