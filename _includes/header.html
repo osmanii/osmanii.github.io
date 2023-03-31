@@ -38,9 +38,11 @@
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               {%- for page in site.pages -%}
-                {% if page.permalink == '/' %}
-                  {% assign about_title = page.title %}
-                {% endif %}
+                {% unless page.exclude %}
+                  {% if page.permalink == '/' %}
+                    {% assign about_title = page.title %}
+                  {% endif %}
+                {% endunless %}
               {% endfor %}
 
               <!-- About -->
