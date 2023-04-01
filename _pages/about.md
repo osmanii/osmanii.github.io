@@ -7,7 +7,7 @@ subtitle: <a href='https://informationsystems.umbc.edu/'>University of Maryland,
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>ITE 426</p>
     <p>1000 Hilltop Circle</p>
