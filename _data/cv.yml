@@ -98,12 +98,12 @@
   contents:
     - title: Causal AI
       items: 
-        - Description 1.
-        - Description 2.
+        - Causal Discovery
+        - Causal Inference
     - title: Applied Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Predictive Modeling
+        - Pervasive Computing
 
 - title: Other Interests
   type: list
