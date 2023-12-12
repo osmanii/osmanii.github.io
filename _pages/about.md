@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>ITE 426</p>
+    <p>Office: ITE 426</p>
+    <p>Lab: ITE 461</p>
     <p>1000 Hilltop Circle</p>
     <p>Baltimore, MD 21250</p>
 
