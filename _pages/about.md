@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://informationsystems.umbc.edu/'>University of Maryland, Baltimore County</a>
+subtitle: <a href='https://umbc.edu/'>University of Maryland, Baltimore County</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of [Information Systems](https://informationsystems.umbc.edu/) at the [University of Maryland, Baltimore County (UMBC)](https://umbc.edu/), where I direct the [Causal AI Lab](https://mogani.umbc.edu/). I am also a faculty affiliate in the Computer Science and Electrical Enginnering at UMBC and a member of the [NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions (iHARP)](https://iharp.umbc.edu/).
+I am an Assistant Professor of [Information Systems](https://informationsystems.umbc.edu/) at the University of Maryland, Baltimore County (UMBC), where I direct the [Causal AI Lab](https://mogani.umbc.edu/). I am also a faculty affiliate in the Computer Science and Electrical Enginnering at UMBC and a member of the [NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions (iHARP)](https://iharp.umbc.edu/).
 
 My research interests are in machine learning (ML) and artificial intelligence (AI), with a significant emphasis on advancing methods that move beyond correlation to uncover causal relationships and estimate causal effects. My research develops data-driven and knowledge-guided causal AI methods that improve causal discovery and inference from complex and biased observational data. I apply these advances to pressing challenges in healthcare (e.g., treatment effect estimation from EHR data), climate science (e.g., modeling ice sheet melt and sea-level rise), natural language processing (e.g., hallucination detection in large language models), and rehabilitation engineering (e.g., personalized accessible navigation for wheelchair users). My work combines causal modeling, statistics, and ML to accelerate scientific discovery, inform policy decisions, and design technologies that positively impact society. My research has been supported by grants from NSF, NIH, NIDILRR, and UMBC.
 
