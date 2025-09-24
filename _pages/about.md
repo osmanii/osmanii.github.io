@@ -19,20 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Md Osman Gani is an Assistant Professor of Information Systems at the University of Maryland, Baltimore County (UMBC), where he directs the Causal AI Lab. He is also a faculty affiliate in the Computer Science and Electrical Enginnering at UMBC.
+I am an Assistant Professor of [Information Systems](https://informationsystems.umbc.edu/) at the [University of Maryland, Baltimore County (UMBC)](https://umbc.edu/), where I direct the [Causal AI Lab](https://mogani.umbc.edu/). I am also a faculty affiliate in the Computer Science and Electrical Enginnering at UMBC and a member of the [NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions (iHARP)](https://iharp.umbc.edu/).
 
-His research interests are in machine learning (ML) and artificial intelligence (AI), with a significant emphasis on advancing methods that move beyond correlation to uncover causal relationships and estimate causal effects. 
+My research interests are in machine learning (ML) and artificial intelligence (AI), with a significant emphasis on advancing methods that move beyond correlation to uncover causal relationships and estimate causal effects. My research develops data-driven and knowledge-guided causal AI methods that improve causal discovery and inference from complex and biased observational data. I apply these advances to pressing challenges in healthcare (e.g., treatment effect estimation from EHR data), climate science (e.g., modeling ice sheet melt and sea-level rise), natural language processing (e.g., hallucination detection in large language models), and rehabilitation engineering (e.g., personalized accessible navigation for wheelchair users). My work combines causal modeling, statistics, and ML to accelerate scientific discovery, inform policy decisions, and design technologies that positively impact society. My research has been supported by grants from NSF, NIH, NIDILRR, and UMBC.
 
-His research develops data-driven and knowledge-guided causal AI methods that improve causal discovery, inference, and effect estimation from complex and biased observational data. He applies these advances to pressing challenges in healthcare (e.g., treatment effect estimation from EHR data), climate science (e.g., modeling ice sheet melt and sea-level rise), natural language processing (e.g., hallucination detection in large language models), and rehabilitation engineering (e.g., personalized accessible navigation for wheelchair users). His work combines causal modeling, statistics, and machine learning to accelerate scientific discovery, inform policy decisions, and design technologies that positively impact society. His research has been supported by the NSF, NIH, and NIDILRR, including multi-million-dollar NSF Harnessing Data Revolution (HDR) - iHARP.
-
-Dr. Gani received his doctorate in Computational Sciences at Marquette University in 2017, where his dissertation focused on the development of a novel framework to recognize complex human activity to achieve context-awareness. He received his B.Sc. degree in Computer Science and Engineering from Military Institute of Science and Technology (MIST), Bangladesh and M.Sc. degree in Computational Sciences from Marquette University, USA. Before joining UMBC, he was a Visiting Assistant Professor at Miami University where he co-lead a research group, SMART (Social Mobile Assisted Real-Time) Systems Research Group. 
+I received my doctorate in Computational Sciences at Marquette University in 2017, where my dissertation focused on the development of a novel framework to recognize complex human activity. I received a B.Sc. degree in Computer Science and Engineering from Military Institute of Science and Technology (MIST), Bangladesh and an M.Sc. degree in Computational Sciences from Marquette University. Before joining UMBC, I was a Visiting Assistant Professor at Miami University where I co-lead a research group, SMART (Social Mobile Assisted Real-Time) Systems Research Group. I started my academic career right after my undergrad as a Lecturer in the CSE department at MIST. I was a competitive programmer during my undergrad and participated in many national and international programming competitions (my team achieved 7th Place in ACM ICPC 2008 Dhaka Regional Site).
 
 
 
 Please feel free to contact me if you have any questions.
 
 ---
-I am currently looking for motivated Ph.D. students to join our lab, Causal Artificial Intelligence Lab (CAIL). If you are interested please reach out to me at mogani [at] umbc [dot] edu.
+I am currently looking for motivated Ph.D. students to join our lab, Causal AI Lab. If you are interested please reach out at mogani [at] umbc [dot] edu. Before reaching out please read our recent works.
 
 ---
 
