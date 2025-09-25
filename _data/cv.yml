@@ -14,25 +14,25 @@
     - title: PhD
       institution: Marquette University, Milwaukee, WI
       year: 2017
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: MS
       institution: Marquette University, Milwaukee, WI
       year: 2013
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
     - title: BS
       institution: Military Institute of Science and Technology, Dhaka, Bangladesh
       year: 2009
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
@@ -40,19 +40,19 @@
     - title: Assistant Professor
       institution: Information Systems, University of Maryland, Baltimore County
       year: 2020 - Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Visiting Assistant Professor
       institution: Computer Science and Software Engineering, Miami University
       year: 2017 - 2020
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
     - title: Graduate Assistant and Instructor
       institution: Mathematics, Statistics, and Computer Science, Marquette University, WI.
