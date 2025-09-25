@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://umbc.edu/'>University of Maryland, Baltimore County</a>
 

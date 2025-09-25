@@ -11,6 +11,22 @@ nav_order: 5
 
 University of Maryland, Baltimore County
 ---
+Spring 2026
+IS 790 -- Causal Artificial Intelligence
+
+Fall 2025
+IS 733 -- Data Mining
+
+Spring 2025
+IS 410/IS 610 -- Introduction to Database Design
+
+Spring 2024
+IS 790 -- Causal Artificial Intelligence
+IS 733 -- Data Mining
+
+Fall 2023
+IS 709/IS 809 -- Computational Methods for Research
+
 Spring 2023
 IS 790 -- Causal Artificial Intelligence
 
